@@ -9,14 +9,12 @@ GEM
   remote: http://rubygems.org/
   specs:
     oauth (0.4.4)
-    yajl-ruby (0.8.1)
+    yajl-ruby (1.4.1)
     yard (0.6.4)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  oauth (>= 0.4.4)
   stashboard!
-  yajl-ruby (>= 0.8.1)
   yard (>= 0.6.4)
