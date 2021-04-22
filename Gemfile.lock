@@ -8,7 +8,7 @@ PATH
 GEM
   remote: http://rubygems.org/
   specs:
-    oauth (0.4.4)
+    oauth (0.5.6)
     yajl-ruby (0.8.1)
     yard (0.6.4)
 
@@ -16,7 +16,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  oauth (>= 0.4.4)
   stashboard!
-  yajl-ruby (>= 0.8.1)
   yard (>= 0.6.4)
